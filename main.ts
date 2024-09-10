@@ -10,7 +10,5 @@ input.onLogoEvent(TouchButtonEvent.Pressed, function () {
     pins.digitalWritePin(DigitalPin.P0, 0)
     pins.digitalWritePin(DigitalPin.P1, 0)
 })
-/**
- */
 pins.digitalWritePin(DigitalPin.P0, 0)
 pins.digitalWritePin(DigitalPin.P1, 0)
